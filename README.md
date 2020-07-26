@@ -4,7 +4,6 @@
 
 ### 我在 GitHub 上的统计
 
-<a title="Hits" target="_blank" href="https://github.com/ChenHaoHu/ChenHaoHu"><img src="https://hits.b3log.org/ChenHaoHu/ChenHaoHu.svg"></a>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ChenHaoHu&show_icons=true)](https://github.com/ChenHaoHu)
 
