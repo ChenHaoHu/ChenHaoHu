@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-
-### 我在 GitHub 上的统计
-
-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ChenHaoHu&show_icons=true)](https://github.com/ChenHaoHu)
 
 <!--events start -->
