@@ -6,6 +6,8 @@
 
 
 - 🌱 I’m currently learning golang opensource project
+- 🔭 I’m currently working on go
+  
 <!--
   - 🔭 I’m currently working on go
  - 👯 I’m looking to collaborate on ...
