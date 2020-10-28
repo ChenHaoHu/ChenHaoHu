@@ -2,6 +2,9 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ChenHaoHu&show_icons=true)](https://github.com/ChenHaoHu)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenHaoHu&hide=TeX&layout=compact)
 <!--events start -->
 
 
