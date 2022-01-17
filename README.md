@@ -18,11 +18,6 @@
 <img src="https://user-images.githubusercontent.com/28889368/148737732-e5b97dcd-1a2d-45f9-b103-6db5a2848368.png" height = "150"  alt="" align=center />
 
 
-### 分享的一些东西
-
-https://github.com/ChenHaoHu/share-demo
-
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenhaohu&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenhaohu&theme=github)
