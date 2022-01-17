@@ -24,7 +24,11 @@ https://github.com/ChenHaoHu/share-demo
 
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenhaohu&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenhaohu&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chenhaohu&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenhaohu&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenhaohu&theme=github)
   
 
 
